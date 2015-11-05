@@ -20,6 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "dropzone": "~4.2.0"
+    "bootstrap": "~3.3.5",
+    "blueimp-file-upload": "~9.11.2"
   }
 }

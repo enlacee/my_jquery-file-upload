@@ -2,3 +2,7 @@
 /node_modules
 /assets/lib/*
 /npm-debug.log
+
+## no follow images
+/server/php/files
+!/server/php/files/index.html
