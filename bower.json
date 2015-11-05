@@ -1,0 +1,25 @@
+{
+  "name": "my_dropzonejs",
+  "authors": [
+    "Anibal C <detops.tk@gmail.com>"
+  ],
+  "description": "test upload files",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "upload",
+    "files"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dropzone": "~4.2.0"
+  }
+}

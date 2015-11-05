@@ -1,0 +1,4 @@
+## no follow
+/node_modules
+/assets/lib/*
+/npm-debug.log
